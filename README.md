@@ -1,3 +1,12 @@
+# This is a fork of the original chai-fs at Bartvds/chai-fs to make it work with chai 3.x.x
+The only difference is that the peerDependency for chai in package.json is bumped so that it accepts chai version 3.x.x.
+
+To install this forked version, use:
+```
+npm install https://github.com/zapatek/chai-fs.git
+```
+The rest of this README is a copy of the original.
+
 # chai-fs
 
 [![Build Status](https://secure.travis-ci.org/Bartvds/chai-fs.png?branch=master)](http://travis-ci.org/Bartvds/chai-fs) [![Dependency Status](https://david-dm.org/Bartvds/chai-fs.svg)](https://david-dm.org/Bartvds/chai-fs) [![devDependency Status](https://david-dm.org/Bartvds/chai-fs/dev-status.svg)](https://david-dm.org/Bartvds/chai-fs#info=devDependencies) [![NPM version](https://badge.fury.io/js/chai-fs.png)](http://badge.fury.io/js/chai-fs)
