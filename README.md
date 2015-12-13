@@ -3,7 +3,7 @@ The only difference is that the peerDependency for chai in package.json is bumpe
 
 To install this forked version, use:
 ```
-npm install https://github.com/zapatek/chai-fs.git
+npm install git+https://github.com/zapatek/chai-fs.git
 ```
 The rest of this README is a copy of the original.
 
